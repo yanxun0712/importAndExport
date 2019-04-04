@@ -1,0 +1,18 @@
+{
+	"name":"mountain_people/execl",
+    "description":      "execl import and export",
+    "keywords":         ["execl", "import", "export"],
+    "homepage":         "http://www.xxx.com ",
+    "time":             "2019-04-04",
+    "license":          "MIT",
+	"authors" : [{
+			"name" : "mountain_people",
+			"email" : "yanxun0712@yeah.net",
+			"homepage" : "https://github.com/yanxun0712"
+		}
+	],
+	"require": {
+		"php": ">=5.5.9",
+        "phpoffice/phpspreadsheet": "^1.6"
+	}
+}
