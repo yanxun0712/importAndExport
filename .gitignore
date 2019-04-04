@@ -1,0 +1,18 @@
+## common
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+
+##IDE
+.idea
+
+##OSX
+.DS_Store
+
+## Directory for Utils
+composer.lock
+runtime
+vendor
+public/ueditor
