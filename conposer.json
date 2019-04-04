@@ -14,5 +14,10 @@
 	"require": {
 		"php": ">=5.5.9",
         "phpoffice/phpspreadsheet": "^1.6"
-	}
+	},
+	"autoload": {
+        "psr-4" : {
+			"ExeclBundle\\" : ""
+		}
+    }
 }
